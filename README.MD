@@ -6,6 +6,8 @@ A simple JavaScript application that displays a horoscope based on the user's se
 
 ![Horoscope Machine](assets/mockup.png)
 
+[Get Your Horoscope](https://kelvinimalenowa.github.io/horoscope-generator/)
+
 ## Features
 
 - Select a zodiac sign
