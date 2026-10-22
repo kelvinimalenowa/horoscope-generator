@@ -2,11 +2,11 @@
 
 A simple JavaScript application that displays a horoscope based on the user's selection.
 
+[Get Your Horoscope](https://kelvinimalenowa.github.io/horoscope-generator/)
+
 ## 📸 Preview
 
 ![Horoscope Machine](assets/mockup.png)
-
-[Get Your Horoscope](https://kelvinimalenowa.github.io/horoscope-generator/)
 
 ## Features
 
